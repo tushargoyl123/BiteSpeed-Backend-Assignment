@@ -10,4 +10,4 @@ This Node.js application is deployed and hosted at BiteSpeed Backend Assignment.
   - Endpoint URL: BiteSpeed Backend Assignment - Identify Endpoint
   
 **Additional Information:**
-  - Resume: A resume is uploaded to the root directory of the project. It can be accessed at Tushar Resume.pdf.
+  - Resume: A resume is uploaded to the root directory of the project. It can be accessed at https://github.com/tushargoyl123/BiteSpeed-Backend-Assignment/blob/main/Tushar%20Resume.pdf

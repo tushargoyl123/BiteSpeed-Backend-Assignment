@@ -1,6 +1,7 @@
 ﻿# BiteSpeed-Backend-Assignment
 **Project Overview:**
-This Node.js application is deployed and hosted at BiteSpeed Backend Assignment. The application utilizes a MySQL database to store and manage data. One of the main endpoints of this application is /identify, which can be accessed at BiteSpeed Backend Assignment - Identify Endpoint.
+This Node.js application is deployed and hosted at BiteSpeed Backend Assignment. The application utilizes a MySQL database to store and manage data. One of the main endpoints of this application is /identify, which can be accessed at BiteSpeed Backend Assignment 
+  - Identify Endpoint.
 
 **Application Details:**
   - Hosted URL: BiteSpeed Backend Assignment
